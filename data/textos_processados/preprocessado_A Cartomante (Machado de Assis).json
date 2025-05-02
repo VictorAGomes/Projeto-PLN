@@ -1,5 +1,7 @@
-[
-  [
+{
+  "titulo": "A Cartomante",
+  "autor": "Machado de Assis",
+  "tokens": [
     [
       "hamlet",
       "observa",
@@ -20,9 +22,7 @@
       "a",
       "nossa",
       "filosofia"
-    ]
-  ],
-  [
+    ],
     [
       "era",
       "a",
@@ -66,17 +66,13 @@
       "por",
       "outras",
       "palavras"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "ria",
       ",",
       "ria"
-    ]
-  ],
-  [
+    ],
     [
       "os",
       "homens",
@@ -86,9 +82,7 @@
       "acreditam",
       "em",
       "nada"
-    ]
-  ],
-  [
+    ],
     [
       "pois",
       "saiba",
@@ -113,9 +107,7 @@
       "o",
       "que",
       "era"
-    ]
-  ],
-  [
+    ],
     [
       "apenas",
       "comecou",
@@ -132,9 +124,7 @@
       "de",
       "uma",
       "pessoa"
-    ]
-  ],
-  [
+    ],
     [
       "``",
       "confessei",
@@ -171,9 +161,7 @@
       "nao",
       "era",
       "verdade"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "errou",
@@ -181,9 +169,7 @@
       "camilo",
       ",",
       "rindo"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "nao",
@@ -191,9 +177,7 @@
       "isso",
       ",",
       "camilo"
-    ]
-  ],
-  [
+    ],
     [
       "se",
       "voce",
@@ -206,18 +190,14 @@
       "por",
       "sua",
       "causa"
-    ]
-  ],
-  [
+    ],
     [
       "voce",
       "sabe",
       "ja",
       "lhe",
       "disse"
-    ]
-  ],
-  [
+    ],
     [
       "nao",
       "ria",
@@ -226,9 +206,7 @@
       ",",
       "nao",
       "ria"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "pegou-lhe",
@@ -242,9 +220,7 @@
       "serio",
       "e",
       "fixo"
-    ]
-  ],
-  [
+    ],
     [
       "jurou",
       "que",
@@ -275,9 +251,7 @@
       "era",
       "ele",
       "mesmo"
-    ]
-  ],
-  [
+    ],
     [
       "depois",
       ",",
@@ -290,9 +264,7 @@
       "por",
       "essas",
       "casas"
-    ]
-  ],
-  [
+    ],
     [
       "vilela",
       "podia",
@@ -300,9 +272,7 @@
       ",",
       "e",
       "depois"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "qual",
@@ -315,18 +285,14 @@
       "entrar",
       "na",
       "casa"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "onde",
       "e",
       "a",
       "casa",
-      "?"
-    ],
-    [
+      "?",
       "—",
       "aqui",
       "perto",
@@ -341,18 +307,14 @@
       "ninguem",
       "nessa",
       "ocasiao"
-    ]
-  ],
-  [
+    ],
     [
       "descansa",
       "eu",
       "nao",
       "sou",
       "maluca"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "riu",
@@ -364,13 +326,9 @@
       "deveras",
       "nessas",
       "cousas",
-      "?"
-    ],
-    [
+      "?",
       "perguntou-lhe"
-    ]
-  ],
-  [
+    ],
     [
       "foi",
       "entao",
@@ -395,9 +353,7 @@
       "verdadeira",
       "neste",
       "mundo"
-    ]
-  ],
-  [
+    ],
     [
       "se",
       "ele",
@@ -414,15 +370,11 @@
       "cartomante",
       "adivinhara",
       "tudo"
-    ]
-  ],
-  [
+    ],
     [
       "que",
       "mais",
-      "?"
-    ],
-    [
+      "?",
       "a",
       "prova",
       "e",
@@ -433,9 +385,7 @@
       "tranquila",
       "e",
       "satisfeita"
-    ]
-  ],
-  [
+    ],
     [
       "cuido",
       "que",
@@ -445,18 +395,14 @@
       ",",
       "mas",
       "reprimiu-se"
-    ]
-  ],
-  [
+    ],
     [
       "nao",
       "queria",
       "arrancar-lhe",
       "as",
       "ilusoes"
-    ]
-  ],
-  [
+    ],
     [
       "tambem",
       "ele",
@@ -489,9 +435,7 @@
       "vinte",
       "anos",
       "desapareceram"
-    ]
-  ],
-  [
+    ],
     [
       "no",
       "dia",
@@ -536,24 +480,18 @@
       "so",
       "negacao",
       "total"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "nao",
       "acreditava",
       "em",
       "nada"
-    ]
-  ],
-  [
+    ],
     [
       "por",
       "que",
-      "?"
-    ],
-    [
+      "?",
       "nao",
       "poderia",
       "dize-lo",
@@ -567,9 +505,7 @@
       "a",
       "negar",
       "tudo"
-    ]
-  ],
-  [
+    ],
     [
       "e",
       "digo",
@@ -600,9 +536,7 @@
       "e",
       "foi",
       "andando"
-    ]
-  ],
-  [
+    ],
     [
       "separaram-se",
       "contentes",
@@ -612,9 +546,7 @@
       "mais",
       "que",
       "ela"
-    ]
-  ],
-  [
+    ],
     [
       "rita",
       "estava",
@@ -655,9 +587,7 @@
       "de",
       "sentir-se",
       "lisonjeado"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "casa",
@@ -676,9 +606,7 @@
       "comprovinciana",
       "de",
       "rita"
-    ]
-  ],
-  [
+    ],
     [
       "esta",
       "desceu",
@@ -709,9 +637,7 @@
       "casa",
       "da",
       "cartomante"
-    ]
-  ],
-  [
+    ],
     [
       "vilela",
       ",",
@@ -729,16 +655,12 @@
       "explicacao",
       "das",
       "origens"
-    ]
-  ],
-  [
+    ],
     [
       "vamos",
       "a",
       "ela"
-    ]
-  ],
-  [
+    ],
     [
       "os",
       "dois",
@@ -747,9 +669,7 @@
       "amigos",
       "de",
       "infancia"
-    ]
-  ],
-  [
+    ],
     [
       "vilela",
       "seguiu",
@@ -757,9 +677,7 @@
       "carreira",
       "de",
       "magistrado"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "entrou",
@@ -797,9 +715,7 @@
       "um",
       "emprego",
       "publico"
-    ]
-  ],
-  [
+    ],
     [
       "no",
       "principio",
@@ -828,9 +744,7 @@
       "banca",
       "de",
       "advogado"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "arranjou-lhe",
@@ -846,26 +760,20 @@
       "a",
       "bordo",
       "recebe-lo"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "e",
       "o",
       "senhor",
-      "?"
-    ],
-    [
+      "?",
       "exclamou",
       "rita",
       ",",
       "estendendo-lhe",
       "a",
       "mao"
-    ]
-  ],
-  [
+    ],
     [
       "nao",
       "imagina",
@@ -880,9 +788,7 @@
       "sempre",
       "do",
       "senhor"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "e",
@@ -890,16 +796,12 @@
       "olharam-se",
       "com",
       "ternura"
-    ]
-  ],
-  [
+    ],
     [
       "eram",
       "amigos",
       "deveras"
-    ]
-  ],
-  [
+    ],
     [
       "depois",
       ",",
@@ -920,9 +822,7 @@
       "cartas",
       "do",
       "marido"
-    ]
-  ],
-  [
+    ],
     [
       "realmente",
       ",",
@@ -940,9 +840,7 @@
       "fina",
       "e",
       "interrogativa"
-    ]
-  ],
-  [
+    ],
     [
       "era",
       "um",
@@ -964,9 +862,7 @@
       "vinte",
       "e",
       "seis"
-    ]
-  ],
-  [
+    ],
     [
       "entretanto",
       ",",
@@ -993,9 +889,7 @@
       "moral",
       "e",
       "pratica"
-    ]
-  ],
-  [
+    ],
     [
       "faltava-lhe",
       "tanto",
@@ -1022,32 +916,24 @@
       "adiantar",
       "os",
       "anos"
-    ]
-  ],
-  [
+    ],
     [
       "nem",
       "experiencia",
       ",",
       "nem",
       "intuicao"
-    ]
-  ],
-  [
+    ],
     [
       "uniram-se",
       "os",
       "tres"
-    ]
-  ],
-  [
+    ],
     [
       "convivencia",
       "trouxe",
       "intimidade"
-    ]
-  ],
-  [
+    ],
     [
       "pouco",
       "depois",
@@ -1071,9 +957,7 @@
       "grandes",
       "amigos",
       "dele"
-    ]
-  ],
-  [
+    ],
     [
       "vilela",
       "cuidou",
@@ -1096,9 +980,7 @@
       "o",
       "faria",
       "melhor"
-    ]
-  ],
-  [
+    ],
     [
       "como",
       "dai",
@@ -1111,9 +993,7 @@
       "soube",
       "ele",
       "nunca"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "verdade",
@@ -1144,9 +1024,7 @@
       "mulher",
       "e",
       "bonita"
-    ]
-  ],
-  [
+    ],
     [
       "odor",
       "di",
@@ -1168,9 +1046,7 @@
       "em",
       "si",
       "proprio"
-    ]
-  ],
-  [
+    ],
     [
       "liam",
       "os",
@@ -1183,9 +1059,7 @@
       "teatros",
       "e",
       "passeios"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "ensinou-lhe",
@@ -1213,17 +1087,13 @@
       "pouco",
       "menos",
       "mal"
-    ]
-  ],
-  [
+    ],
     [
       "ate",
       "ai",
       "as",
       "cousas"
-    ]
-  ],
-  [
+    ],
     [
       "agora",
       "a",
@@ -1261,9 +1131,7 @@
       "as",
       "atitudes",
       "insolitas"
-    ]
-  ],
-  [
+    ],
     [
       "um",
       "dia",
@@ -1311,9 +1179,7 @@
       "olhos",
       "do",
       "bilhetinho"
-    ]
-  ],
-  [
+    ],
     [
       "palavras",
       "vulgares",
@@ -1328,9 +1194,7 @@
       "menos",
       ",",
       "deleitosas"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "velha",
@@ -1357,9 +1221,7 @@
       "carro",
       "de",
       "apolo"
-    ]
-  ],
-  [
+    ],
     [
       "assim",
       "e",
@@ -1373,9 +1235,7 @@
       "que",
       "o",
       "cercam"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "quis",
@@ -1386,9 +1246,7 @@
       "ja",
       "nao",
       "pode"
-    ]
-  ],
-  [
+    ],
     [
       "rita",
       ",",
@@ -1416,18 +1274,14 @@
       "veneno",
       "na",
       "boca"
-    ]
-  ],
-  [
+    ],
     [
       "ele",
       "ficou",
       "atordoado",
       "e",
       "subjugado"
-    ]
-  ],
-  [
+    ],
     [
       "vexame",
       ",",
@@ -1451,9 +1305,7 @@
       "a",
       "vitoria",
       "delirante"
-    ]
-  ],
-  [
+    ],
     [
       "adeus",
       ",",
@@ -1502,9 +1354,7 @@
       "um",
       "do",
       "outro"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "confianca",
@@ -1517,9 +1367,7 @@
       "ser",
       "as",
       "mesmas"
-    ]
-  ],
-  [
+    ],
     [
       "um",
       "dia",
@@ -1548,9 +1396,7 @@
       "sabida",
       "de",
       "todos"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "teve",
@@ -1572,17 +1418,13 @@
       "casa",
       "de",
       "vilela"
-    ]
-  ],
-  [
+    ],
     [
       "este",
       "notou-lhe",
       "as",
       "ausencias"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "respondeu",
@@ -1595,16 +1437,12 @@
       "frivola",
       "de",
       "rapaz"
-    ]
-  ],
-  [
+    ],
     [
       "candura",
       "gerou",
       "astucia"
-    ]
-  ],
-  [
+    ],
     [
       "as",
       "ausencias",
@@ -1615,9 +1453,7 @@
       "visitas",
       "cessaram",
       "inteiramente"
-    ]
-  ],
-  [
+    ],
     [
       "pode",
       "ser",
@@ -1647,9 +1483,7 @@
       "aleivosia",
       "do",
       "ato"
-    ]
-  ],
-  [
+    ],
     [
       "foi",
       "por",
@@ -1675,9 +1509,7 @@
       "procedimento",
       "de",
       "camilo"
-    ]
-  ],
-  [
+    ],
     [
       "vimos",
       "que",
@@ -1698,17 +1530,13 @@
       "o",
       "que",
       "fez"
-    ]
-  ],
-  [
+    ],
     [
       "correram",
       "ainda",
       "algumas",
       "semanas"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "recebeu",
@@ -1773,9 +1601,7 @@
       "ativo",
       "e",
       "prodigo"
-    ]
-  ],
-  [
+    ],
     [
       "nem",
       "por",
@@ -1800,18 +1626,14 @@
       "entao",
       "sem",
       "remedio"
-    ]
-  ],
-  [
+    ],
     [
       "rita",
       "concordou",
       "que",
       "era",
       "possivel"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "bem",
@@ -1841,9 +1663,7 @@
       "guardo-a",
       "e",
       "rasgo-a"
-    ]
-  ],
-  [
+    ],
     [
       "nenhuma",
       "apareceu",
@@ -1863,9 +1683,7 @@
       ",",
       "como",
       "desconfiado"
-    ]
-  ],
-  [
+    ],
     [
       "rita",
       "deu-se",
@@ -1879,9 +1697,7 @@
       "sobre",
       "isso",
       "deliberaram"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "opiniao",
@@ -1912,9 +1728,7 @@
       "algum",
       "negocio",
       "particular"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "divergia",
@@ -1929,9 +1743,7 @@
       "suspeita",
       "ou",
       "denuncia"
-    ]
-  ],
-  [
+    ],
     [
       "mais",
       "valia",
@@ -1941,9 +1753,7 @@
       "por",
       "algumas",
       "semanas"
-    ]
-  ],
-  [
+    ],
     [
       "combinaram",
       "os",
@@ -1961,9 +1771,7 @@
       "separaram-se",
       "com",
       "lagrimas"
-    ]
-  ],
-  [
+    ],
     [
       "no",
       "dia",
@@ -1992,18 +1800,14 @@
       "falar-te",
       "sem",
       "demora"
-    ]
-  ],
-  [
+    ],
     [
       "``",
       "era",
       "mais",
       "de",
       "meio-dia"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "saiu",
@@ -2024,9 +1828,7 @@
       "que",
       "em",
       "casa",
-      "?"
-    ],
-    [
+      "?",
       "tudo",
       "indicava",
       "materia",
@@ -2043,9 +1845,7 @@
       ",",
       "afigurou-se-lhe",
       "tremula"
-    ]
-  ],
-  [
+    ],
     [
       "ele",
       "combinou",
@@ -2057,9 +1857,7 @@
       "noticia",
       "da",
       "vespera"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "vem",
@@ -2083,9 +1881,7 @@
       "olhos",
       "no",
       "papel"
-    ]
-  ],
-  [
+    ],
     [
       "imaginariamente",
       ",",
@@ -2124,9 +1920,7 @@
       "esperando-o",
       "para",
       "mata-lo"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "estremeceu",
@@ -2150,9 +1944,7 @@
       "e",
       "foi",
       "andando"
-    ]
-  ],
-  [
+    ],
     [
       "de",
       "caminho",
@@ -2173,9 +1965,7 @@
       "lhe",
       "explicasse",
       "tudo"
-    ]
-  ],
-  [
+    ],
     [
       "nao",
       "achou",
@@ -2183,9 +1973,7 @@
       ",",
       "nem",
       "ninguem"
-    ]
-  ],
-  [
+    ],
     [
       "voltou",
       "a",
@@ -2223,9 +2011,7 @@
       "conhecesse",
       "agora",
       "tudo"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "mesma",
@@ -2248,9 +2034,7 @@
       "confirmar",
       "o",
       "resto"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "ia",
@@ -2258,9 +2042,7 @@
       "inquieto",
       "e",
       "nervoso"
-    ]
-  ],
-  [
+    ],
     [
       "nao",
       "relia",
@@ -2301,9 +2083,7 @@
       "voz",
       "de",
       "vilela"
-    ]
-  ],
-  [
+    ],
     [
       "``",
       "vem",
@@ -2318,9 +2098,7 @@
       "falar-te",
       "sem",
       "demora"
-    ]
-  ],
-  [
+    ],
     [
       "``",
       "ditas",
@@ -2338,9 +2116,7 @@
       "misterio",
       "e",
       "ameaca"
-    ]
-  ],
-  [
+    ],
     [
       "vem",
       ",",
@@ -2350,9 +2126,7 @@
       ",",
       "para",
       "que",
-      "?"
-    ],
-    [
+      "?",
       "era",
       "perto",
       "de",
@@ -2360,9 +2134,7 @@
       "hora",
       "da",
       "tarde"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "comocao",
@@ -2371,9 +2143,7 @@
       "minuto",
       "a",
       "minuto"
-    ]
-  ],
-  [
+    ],
     [
       "tanto",
       "imaginou",
@@ -2389,17 +2159,13 @@
       "cre-lo",
       "e",
       "ve-lo"
-    ]
-  ],
-  [
+    ],
     [
       "positivamente",
       ",",
       "tinha",
       "medo"
-    ]
-  ],
-  [
+    ],
     [
       "entrou",
       "a",
@@ -2423,9 +2189,7 @@
       "precaucao",
       "era",
       "util"
-    ]
-  ],
-  [
+    ],
     [
       "logo",
       "depois",
@@ -2456,9 +2220,7 @@
       "entrar",
       "num",
       "tilburi"
-    ]
-  ],
-  [
+    ],
     [
       "chegou",
       ",",
@@ -2469,9 +2231,7 @@
       "a",
       "trote",
       "largo"
-    ]
-  ],
-  [
+    ],
     [
       "``",
       "quanto",
@@ -2485,9 +2245,7 @@
       "posso",
       "estar",
       "assim"
-    ]
-  ],
-  [
+    ],
     [
       "``",
       "mas",
@@ -2500,9 +2258,7 @@
       "agravar-lhe",
       "a",
       "comocao"
-    ]
-  ],
-  [
+    ],
     [
       "o",
       "tempo",
@@ -2517,9 +2273,7 @@
       "com",
       "o",
       "perigo"
-    ]
-  ],
-  [
+    ],
     [
       "quase",
       "no",
@@ -2546,9 +2300,7 @@
       ",",
       "que",
       "caira"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       ",",
@@ -2562,9 +2314,7 @@
       ",",
       "e",
       "esperou"
-    ]
-  ],
-  [
+    ],
     [
       "no",
       "fim",
@@ -2608,9 +2358,7 @@
       "licao",
       "das",
       "cartas"
-    ]
-  ],
-  [
+    ],
     [
       "olhou",
       ",",
@@ -2633,9 +2381,7 @@
       "incidente",
       "da",
       "rua"
-    ]
-  ],
-  [
+    ],
     [
       "dir-se-ia",
       "a",
@@ -2643,9 +2389,7 @@
       "do",
       "indiferente",
       "destino"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "reclinou-se",
@@ -2656,9 +2400,7 @@
       "nao",
       "ver",
       "nada"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "agitacao",
@@ -2688,9 +2430,7 @@
       "as",
       "supersticoes",
       "antigas"
-    ]
-  ],
-  [
+    ],
     [
       "o",
       "cocheiro",
@@ -2712,9 +2452,7 @@
       ",",
       "que",
       "esperasse"
-    ]
-  ],
-  [
+    ],
     [
       "e",
       "inclinava-se",
@@ -2722,9 +2460,7 @@
       "fitar",
       "a",
       "casa"
-    ]
-  ],
-  [
+    ],
     [
       "depois",
       "fez",
@@ -2779,9 +2515,7 @@
       "uns",
       "giros",
       "concentricos"
-    ]
-  ],
-  [
+    ],
     [
       "na",
       "rua",
@@ -2806,9 +2540,7 @@
       "removido",
       "o",
       "obstaculo"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "fechava",
@@ -2837,9 +2569,7 @@
       "ja",
       ",",
       "ja"
-    ]
-  ],
-  [
+    ],
     [
       "``",
       "e",
@@ -2851,18 +2581,14 @@
       "drama",
       "e",
       "tremia"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "casa",
       "olhava",
       "para",
       "ele"
-    ]
-  ],
-  [
+    ],
     [
       "as",
       "pernas",
@@ -2870,9 +2596,7 @@
       "descer",
       "e",
       "entrar"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "achou-se",
@@ -2882,9 +2606,7 @@
       "longo",
       "veu",
       "opaco"
-    ]
-  ],
-  [
+    ],
     [
       "pensou",
       "rapidamente",
@@ -2893,9 +2615,7 @@
       "de",
       "tantas",
       "cousas"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "voz",
@@ -2931,9 +2651,7 @@
       "sonha",
       "a",
       "filosofia"
-    ]
-  ],
-  [
+    ],
     [
       "``",
       "que",
@@ -2941,13 +2659,9 @@
       "ele",
       ",",
       "se"
-    ]
-  ],
-  [
-    [
-      "?"
     ],
     [
+      "?",
       "deu",
       "por",
       "si",
@@ -2974,9 +2688,7 @@
       "subiu",
       "a",
       "escada"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "luz",
@@ -3000,16 +2712,12 @@
       "nem",
       "sentiu",
       "nada"
-    ]
-  ],
-  [
+    ],
     [
       "trepou",
       "e",
       "bateu"
-    ]
-  ],
-  [
+    ],
     [
       "nao",
       "aparecendo",
@@ -3042,9 +2750,7 @@
       ",",
       "tres",
       "pancadas"
-    ]
-  ],
-  [
+    ],
     [
       "veio",
       "uma",
@@ -3052,9 +2758,7 @@
       "era",
       "a",
       "cartomante"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "disse",
@@ -3065,9 +2769,7 @@
       "ela",
       "fe-lo",
       "entrar"
-    ]
-  ],
-  [
+    ],
     [
       "dali",
       "subiram",
@@ -3085,9 +2787,7 @@
       "e",
       "mais",
       "escura"
-    ]
-  ],
-  [
+    ],
     [
       "em",
       "cima",
@@ -3109,9 +2809,7 @@
       "telhado",
       "dos",
       "fundos"
-    ]
-  ],
-  [
+    ],
     [
       "velhos",
       "trastes",
@@ -3132,9 +2830,7 @@
       "destruia",
       "o",
       "prestigio"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "cartomante",
@@ -3172,9 +2868,7 @@
       "rosto",
       "de",
       "camilo"
-    ]
-  ],
-  [
+    ],
     [
       "abriu",
       "uma",
@@ -3188,9 +2882,7 @@
       "compridas",
       "e",
       "enxovalhadas"
-    ]
-  ],
-  [
+    ],
     [
       "enquanto",
       "as",
@@ -3211,9 +2903,7 @@
       "baixo",
       "dos",
       "olhos"
-    ]
-  ],
-  [
+    ],
     [
       "era",
       "uma",
@@ -3234,9 +2924,7 @@
       "sonsos",
       "e",
       "agudos"
-    ]
-  ],
-  [
+    ],
     [
       "voltou",
       "tres",
@@ -3257,9 +2945,7 @@
       "o",
       "traz",
       "aqui"
-    ]
-  ],
-  [
+    ],
     [
       "o",
       "senhor",
@@ -3267,9 +2953,7 @@
       "um",
       "grande",
       "susto"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       ",",
@@ -3279,9 +2963,7 @@
       "um",
       "gesto",
       "afirmativo"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "e",
@@ -3298,9 +2980,7 @@
       "cousa",
       "ou",
       "nao"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "a",
@@ -3312,9 +2992,7 @@
       "explicou",
       "vivamente",
       "ele"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "cartomante",
@@ -3324,9 +3002,7 @@
       "so",
       "que",
       "esperasse"
-    ]
-  ],
-  [
+    ],
     [
       "rapido",
       "pegou",
@@ -3356,9 +3032,7 @@
       "uma",
       ",",
       "duas"
-    ]
-  ],
-  [
+    ],
     [
       "tres",
       "vezes",
@@ -3366,9 +3040,7 @@
       "comecou",
       "a",
       "estende-las"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "tinha",
@@ -3378,17 +3050,13 @@
       "curioso",
       "e",
       "ansioso"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "as",
       "cartas",
       "dizem-me"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "inclinou-se",
@@ -3399,9 +3067,7 @@
       "uma",
       "as",
       "palavras"
-    ]
-  ],
-  [
+    ],
     [
       "entao",
       "ela",
@@ -3412,9 +3078,7 @@
       "medo",
       "de",
       "nada"
-    ]
-  ],
-  [
+    ],
     [
       "nada",
       "aconteceria",
@@ -3431,9 +3095,7 @@
       ",",
       "ignorava",
       "tudo"
-    ]
-  ],
-  [
+    ],
     [
       "nao",
       "obstante",
@@ -3446,9 +3108,7 @@
       "invejas",
       "e",
       "despeitos"
-    ]
-  ],
-  [
+    ],
     [
       "falou-lhe",
       "do",
@@ -3461,16 +3121,12 @@
       "beleza",
       "de",
       "rita"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "estava",
       "deslumbrado"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "cartomante",
@@ -3483,9 +3139,7 @@
       "fechou-as",
       "na",
       "gaveta"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "a",
@@ -3510,17 +3164,13 @@
       "a",
       "da",
       "cartomante"
-    ]
-  ],
-  [
+    ],
     [
       "esta",
       "levantou-se",
       ",",
       "rindo"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "va",
@@ -3531,9 +3181,7 @@
       ",",
       "ragazzo",
       "innamorato"
-    ]
-  ],
-  [
+    ],
     [
       "e",
       "de",
@@ -3547,9 +3195,7 @@
       "tocou-lhe",
       "na",
       "testa"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "estremeceu",
@@ -3566,9 +3212,7 @@
       "e",
       "levantou-se",
       "tambem"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "cartomante",
@@ -3605,9 +3249,7 @@
       "desmentiam",
       "as",
       "unhas"
-    ]
-  ],
-  [
+    ],
     [
       "nessa",
       "mesma",
@@ -3620,9 +3262,7 @@
       "um",
       "ar",
       "particular"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       ",",
@@ -3637,9 +3277,7 @@
       "ignorava",
       "o",
       "preco"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "passas",
@@ -3653,17 +3291,13 @@
       "tirando",
       "a",
       "carteira"
-    ]
-  ],
-  [
+    ],
     [
       "quantas",
       "quer",
       "mandar",
       "buscar",
-      "?"
-    ],
-    [
+      "?",
       "—",
       "pergunte",
       "ao",
@@ -3672,9 +3306,7 @@
       ",",
       "respondeu",
       "ela"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "tirou",
@@ -3686,18 +3318,14 @@
       ",",
       "e",
       "deu-lha"
-    ]
-  ],
-  [
+    ],
     [
       "os",
       "olhos",
       "da",
       "cartomante",
       "fuzilaram"
-    ]
-  ],
-  [
+    ],
     [
       "o",
       "preco",
@@ -3705,9 +3333,7 @@
       "era",
       "dois",
       "mil-reis"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "vejo",
@@ -3718,9 +3344,7 @@
       "gosta",
       "muito",
       "dela"
-    ]
-  ],
-  [
+    ],
     [
       "e",
       "faz",
@@ -3730,18 +3354,14 @@
       "muito",
       "do",
       "senhor"
-    ]
-  ],
-  [
+    ],
     [
       "va",
       ",",
       "va",
       ",",
       "tranquilo"
-    ]
-  ],
-  [
+    ],
     [
       "olhe",
       "a",
@@ -3752,9 +3372,7 @@
       "ponha",
       "o",
       "chapeu"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "cartomante",
@@ -3777,9 +3395,7 @@
       "um",
       "leve",
       "sotaque"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "despediu-se",
@@ -3810,9 +3426,7 @@
       "cantarolando",
       "uma",
       "barcarola"
-    ]
-  ],
-  [
+    ],
     [
       "camilo",
       "achou",
@@ -3823,9 +3437,7 @@
       "rua",
       "estava",
       "livre"
-    ]
-  ],
-  [
+    ],
     [
       "entrou",
       "e",
@@ -3833,9 +3445,7 @@
       "a",
       "trote",
       "largo"
-    ]
-  ],
-  [
+    ],
     [
       "tudo",
       "lhe",
@@ -3858,9 +3468,7 @@
       "as",
       "caras",
       "joviais"
-    ]
-  ],
-  [
+    ],
     [
       "chegou",
       "a",
@@ -3886,9 +3494,7 @@
       "intimos",
       "e",
       "familiares"
-    ]
-  ],
-  [
+    ],
     [
       "onde",
       "e",
@@ -3898,9 +3504,7 @@
       "descobrira",
       "a",
       "ameaca",
-      "?"
-    ],
-    [
+      "?",
       "advertiu",
       "tambem",
       "que",
@@ -3921,9 +3525,7 @@
       "grave",
       "e",
       "gravissimo"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "vamos",
@@ -3935,9 +3537,7 @@
       "ele",
       "ao",
       "cocheiro"
-    ]
-  ],
-  [
+    ],
     [
       "e",
       "consigo",
@@ -3967,9 +3567,7 @@
       "a",
       "antiga",
       "assiduidade"
-    ]
-  ],
-  [
+    ],
     [
       "de",
       "volta",
@@ -3984,9 +3582,7 @@
       "palavras",
       "da",
       "cartomante"
-    ]
-  ],
-  [
+    ],
     [
       "em",
       "verdade",
@@ -4013,9 +3609,7 @@
       "adivinharia",
       "o",
       "resto",
-      "?"
-    ],
-    [
+      "?",
       "o",
       "presente",
       "que",
@@ -4024,9 +3618,7 @@
       "vale",
       "o",
       "futuro"
-    ]
-  ],
-  [
+    ],
     [
       "era",
       "assim",
@@ -4056,9 +3648,7 @@
       "unhas",
       "de",
       "ferro"
-    ]
-  ],
-  [
+    ],
     [
       "as",
       "vezes",
@@ -4129,9 +3719,7 @@
       "nova",
       "e",
       "vivaz"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "verdade",
@@ -4156,9 +3744,7 @@
       "haviam",
       "de",
       "vir"
-    ]
-  ],
-  [
+    ],
     [
       "ao",
       "passar",
@@ -4202,9 +3788,7 @@
       "longo",
       ",",
       "interminavel"
-    ]
-  ],
-  [
+    ],
     [
       "dai",
       "a",
@@ -4214,9 +3798,7 @@
       "casa",
       "de",
       "vilela"
-    ]
-  ],
-  [
+    ],
     [
       "apeou-se",
       ",",
@@ -4229,17 +3811,13 @@
       "jardim",
       "e",
       "entrou"
-    ]
-  ],
-  [
+    ],
     [
       "a",
       "casa",
       "estava",
       "silenciosa"
-    ]
-  ],
-  [
+    ],
     [
       "subiu",
       "os",
@@ -4262,9 +3840,7 @@
       "e",
       "apareceu-lhe",
       "vilela"
-    ]
-  ],
-  [
+    ],
     [
       "—",
       "desculpa",
@@ -4276,9 +3852,7 @@
       "cedo",
       "que",
       "ha",
-      "?"
-    ],
-    [
+      "?",
       "vilela",
       "nao",
       "lhe",
@@ -4296,9 +3870,7 @@
       "uma",
       "saleta",
       "interior"
-    ]
-  ],
-  [
+    ],
     [
       "entrando",
       ",",
@@ -4322,9 +3894,7 @@
       "morta",
       "e",
       "ensanguentada"
-    ]
-  ],
-  [
+    ],
     [
       "vilela",
       "pegou-o",
@@ -4343,11 +3913,9 @@
       "morto",
       "no",
       "chao"
-    ]
-  ],
-  [
+    ],
     [
       "fim"
     ]
   ]
-]
+}
